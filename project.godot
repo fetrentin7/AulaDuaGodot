@@ -13,4 +13,4 @@ config_version=5
 config/name="tutorial"
 run/main_scene="uid://3cgwa5we7v1r"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://Scene/icon.svg"
+config/icon="res://Cena/icon.svg"
